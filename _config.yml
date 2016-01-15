@@ -2,6 +2,7 @@ name: Blackbird Studio
 favicon: null
 layout_spectrum: 0.11048357863910496
 typography_spectrum: 0.7213756605051458
+title: Recording Studio
 cta:
   domain: null
   bucket: null
