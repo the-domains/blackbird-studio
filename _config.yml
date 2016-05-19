@@ -1,20 +1,4 @@
-name: Blackbird Studio
-favicon: null
-layout_spectrum: 0.11048357863910496
 typography_spectrum: 0.7213756605051458
-title: Recording Studio
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6866912874393165
   saturation: 0.10702915745787323
   rhythmicContrast: 0.8619810219388455
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.11048357863910496
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Rolff
+  email: rolff@blackbirdstudio.com
+  url: blackbirdstudio.com
+name: Blackbird Studio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Recording Studio
 purpose: []
